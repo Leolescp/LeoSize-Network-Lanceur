@@ -1,6 +1,6 @@
-# 🚀 LeoSize Network | Lanceur pour les serveur de LeoSize Network Minecraft Java
+# 🚀 LeoSize Network | Lanceur pour les serveurs de LeoSize Network Minecraft Java
 
-Bienvenue sur le **Lanceur officiel de LeoSize Network** !  
+Bienvenue sur le **Github du Lanceur officiel de LeoSize Network** !  
 Ce lanceur est conçu pour vous offrir une **expérience Minecraft Java centralisée, optimisée et immersive**, avec un accès direct à tous les serveurs exclusifs du réseau LeoSize.
 
 ---
