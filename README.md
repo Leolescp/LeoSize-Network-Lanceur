@@ -22,7 +22,7 @@ Ce lanceur est conçu pour vous offrir une **expérience Minecraft Java centrali
 
 ### 🌐 Interface intuitive
 - Design moderne et épuré
-- **Thèmes clair et sombre** disponibles
+- **Thèmes sombre** disponibles
 - Navigation simple entre les serveurs et les paramètres
 
 ---
@@ -40,7 +40,7 @@ Ce lanceur est conçu pour vous offrir une **expérience Minecraft Java centrali
 ---
 
 ### 🛠️ Mises à jour centralisées
-- Le launcher se met à jour **tout seul**, sans réinstallation
+- Le lanceur se met à jour **tout seul**, sans réinstallation
 - Mise à jour automatique des serveurs et de leur contenu
 
 ---
@@ -61,7 +61,7 @@ Ce lanceur est conçu pour vous offrir une **expérience Minecraft Java centrali
 
 ## 📦 Installation
 
-1. Téléchargez le launcher depuis github
+1. Téléchargez le lanceur depuis github
 2. Lancez l'installateur `.exe`
 3. Connectez-vous avec votre compte Minecraft
 4. Sélectionnez un serveur et... **jouez !** 🎉
